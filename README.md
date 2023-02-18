@@ -1,6 +1,5 @@
 - 👋 Hi, I’m vaneldoga
-- 👀 I’m interested in sci-fi, learn and League of legends
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python and Java
 
 <!---
 vaneldoga/vaneldoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
