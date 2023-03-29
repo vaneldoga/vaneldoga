@@ -13,9 +13,6 @@ Hi, I’m vaneldoga.<br>I’m currently learning Python, C and Cybersecurity fun
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaneldoga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=vanel___y)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=2&color=3)](https://visitcount.itsvg.in)
 
