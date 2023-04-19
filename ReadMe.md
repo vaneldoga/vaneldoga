@@ -1,3 +1,4 @@
+<p align="center">
 # 💫 About Me:
 I’m currently learning Python, C and Cybersecurity fundamentals.
 
@@ -16,5 +17,5 @@ I’m currently learning Python, C and Cybersecurity fundamentals.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=2&color=3)](https://visitcount.itsvg.in)
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
