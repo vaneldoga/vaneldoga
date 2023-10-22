@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
-<h3 align="center">I’m currently learning Python, C and Cybersecurity fundamentals.</h3>
+<h3 align="center">I’m currently learning Python and and Cybersecurity fundamentals.</h3>
 
 ## 🌐 Socials:
   
