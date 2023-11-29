@@ -1,10 +1,10 @@
 <h1 align="center">  vaneldoga.md </h1>
 
 <div style="display:flex; padding-bottom: 20px; align=right;">
-  <div style="border:5px; border-box;  padding: 20px;">
+  <div style="border:5px; border-box;  padding: 20px; border-bottom: 10px;">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
   </div>
-  <div style="border:5px; box-sizing: border-box;  padding: 10px;">
+  <div style="border:5px; box-sizing: border-box;  padding: 10px; border-bottom: 10px;">
     <img align="left" src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" width="390">
   </div>
 </div>
@@ -28,6 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+</div>
+
+
+
+<div style="display:flex; padding-bottom: 20px; align=right;">
+  <div style="border:5px; border-box;  padding: 20px; border-bottom: 10px;">
+    My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
+  </div>
+  <div style="border:5px; box-sizing: border-box;  padding: 10px; border-bottom: 10px;">
+    <img align="left" src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" width="390">
+  </div>
 </div>
 
 ---
