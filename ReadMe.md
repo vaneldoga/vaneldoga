@@ -1,16 +1,15 @@
 <h1 align="center">  vaneldoga.md </h1>
 
-<div align="center"> <!-- Introdução -->
-    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="390">
-    <p align="left">
+<div style="display:flex;">
+  <div style="border:0px; width: 50%;">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
-    </p>
+  </div>
+  
+  <div style="border:0px; width: 50%;">
+    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="390">
+  </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=112524662&period=all_times" target="_blank" style="display: block" align="center">
