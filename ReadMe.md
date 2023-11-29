@@ -1,8 +1,8 @@
-<h1 align=center> 👋 Yuri_Delgado.md </h1>
+<h1 align="center"> 👋 Yuri_Delgado.md </h1>
 
-<center>
+<p align="center">
 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
-</center>
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
