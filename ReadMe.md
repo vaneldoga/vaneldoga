@@ -1,17 +1,14 @@
 <h1 align="center">  vaneldoga.md </h1>
 
-<div style="display:flex; padding-bottom: 20px;">
+<div style="display:flex; padding-bottom: 20px; align=right;">
   <div style="border:5px; width: 50%; border-box;  padding: 20px;">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
   </div>
   <div style="border:5px; width: 50%; box-sizing: border-box;  padding: 10px;">
-    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="390">
+    <img align="left" src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" width="390">
   </div>
 </div>
 
-
-
----
 
 <div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
