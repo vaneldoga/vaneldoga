@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Yuri_Delgado.md </h1>
 
 <p align="center">
-I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
+My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
 </p>
 
 ---
@@ -26,12 +26,27 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
 </div>
 
 ---
-
+<div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=dark&hide_border=true" width="380">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=dark&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
+---
 
+
+
+
+<div align="center">
+    <h1 align="center">Connect</h1>
+    <a href="https://linkedin.com/in/yuri-delgado/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://instagram.com/vanel___y">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    </a>
+    <a href="https://twitter.com/vanel___y">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
+    </a>    
 
