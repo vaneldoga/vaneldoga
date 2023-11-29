@@ -34,7 +34,6 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
 </p>
 
 
----
 
 [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=0&color=0)](https://visitcount.itsvg.in)
 
