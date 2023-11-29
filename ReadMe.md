@@ -1,18 +1,14 @@
-<h1 align="center"> 👋 Yuri_Delgado.md </h1>
+<h1 align="center">  vaneldoga.md </h1>
 
-<div align="center">
+<div align="center"> <!-- Introdução -->
     <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="390">
     <p align="left">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
     </p>
 </div>
 
-<br>
-<br>
-<br>
-
 ---
-<div align="center">
+<div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -34,7 +30,7 @@
 
 ---
 <div>
-<p align="center">
+<p align="center"> <!-- estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight&hide_border=true" width="380">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
@@ -42,9 +38,12 @@
 </p>
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-<div align="center">
+<div align="center"> <!-- social -->
     <h1 align="center">Connect</h1>
     <a href="https://linkedin.com/in/yuri-delgado/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
