@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Yuri_Delgado.md </h1>
 
 <div align="center">
-    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="380">
+    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="390">
     <p align="left">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
     </p>
