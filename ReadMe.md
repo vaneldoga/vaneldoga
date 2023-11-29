@@ -28,7 +28,7 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=dark&hide_border=true" width="390">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=dark&hide_border=true" width="380">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=dark&hide_border=true" width="400">
 </p>
 
