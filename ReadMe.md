@@ -35,7 +35,14 @@
 ---
 <div>
 <p align="center"> <!-- estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight&hide_border=true" width="380">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @vaneldoga" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true">
