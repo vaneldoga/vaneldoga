@@ -1,12 +1,10 @@
 <h1 align="center"> 👋 Yuri_Delgado.md </h1>
 
 <div align="center">
-<img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="300">
-<p align="left">
-My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
-
-
-</p>
+    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" align="right" width="380">
+    <p align="left">
+    My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
+    </p>
 </div>
 
 <br>
@@ -41,11 +39,9 @@ My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=dark&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
+</div>
 
 ---
-
-
-
 
 <div align="center">
     <h1 align="center">Connect</h1>
@@ -58,4 +54,4 @@ My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'
     <a href="https://twitter.com/vanel___y">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
     </a>    
-
+</div>
