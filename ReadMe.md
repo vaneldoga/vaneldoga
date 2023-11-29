@@ -1,6 +1,6 @@
 <h1 align="center">  vaneldoga.md </h1>
 
-<div style="display:flex; ">
+<div style="display:flex; padding-bottom: 20px;">
   <div style="border:5px; width: 50%; border-box;  padding: 20px;">
     My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.
   </div>
@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center" style="display:flex; align:center;"> <!-- Tecnologias -->
+<div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
