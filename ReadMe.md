@@ -37,7 +37,9 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in/api?id=vaneldoga&icon=0&color=0">
+<img src="https://visitcount.itsvg.in">
+</a>
 
 
 
