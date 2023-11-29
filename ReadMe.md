@@ -24,8 +24,6 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-###
-
 ---
 
 <p align="center">
@@ -35,6 +33,7 @@ I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=0&color=0)](https://visitcount.itsvg.in)
