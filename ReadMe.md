@@ -62,7 +62,7 @@
 
 <details>
   <summary>Connect</summary>
-    <div> <!-- social -->
+    <div align="center"> <!-- social -->
       <a href="https://linkedin.com/in/yuri-delgado/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
       </a>
