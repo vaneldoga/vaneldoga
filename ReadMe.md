@@ -45,6 +45,7 @@
 <details>
   <summary>Statistics</summary>
     <div align="center"> <!-- estatísticas -->
+      <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400" 
       height="150">
@@ -64,7 +65,8 @@
 
 <details>
   <summary>Connect</summary>
-    <div align="center"> <!-- social -->
+    <div> <!-- social -->
+      <br>
       <a href="https://linkedin.com/in/yuri-delgado/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
       </a>
