@@ -29,9 +29,9 @@
 </div>
 
   ---
-<div align="center"> <!-- estatísticas -->
-  <details>
-    <summary style="font-size: 27px;">Statistics</summary>
+<details>
+  <summary style="font-size: 27px;">Statistics</summary>
+    <div align="center"> <!-- estatísticas -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400" 
       height="150">
@@ -39,27 +39,16 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true">
       <hr>
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
-     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=dark" width="715" height="auto">
-      <img alt="Dashboard stats of @vaneldoga" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=light" width="771" height="auto">
-     </picture>
-  </details>
-</div>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=dark" width="715" height="auto">
+        <img alt="Dashboard stats of @vaneldoga" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
+    </div>
+</details>
 
-<br>
-<br>
-
-
-<div align="center"> 
-  
-  [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<div align="center"> <!-- social -->
-  <details align="center">
-    <summary style="font-size: 27px">Connect</summary>
+<details>
+  <summary style="font-size: 27px">Connect</summary>
+    <div> <!-- social -->
       <a href="https://linkedin.com/in/yuri-delgado/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
       </a>
@@ -69,5 +58,5 @@
       <a href="https://twitter.com/vanel___y">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
       </a>    
-  </detalis>
-</div>
+    </div>
+</details>
