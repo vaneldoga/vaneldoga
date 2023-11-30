@@ -1,13 +1,15 @@
 <h1 align="center"> vaneldoga.md </h1>
 
-<div align="center" style="border-bottom:30px solid transparent">
+<div align="center">
   <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
 
 </div>
 
-<span style="color: transparent;">Não estou aqui!</span>
+<h2>👤 Quem sou eu</h2>
 
 <div>
+  <p align="left">🖊️ My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
+
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
   <p align="left">📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b></p>
