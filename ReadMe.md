@@ -3,15 +3,14 @@
 <div align="center">
   <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right;">
   <br>
-  <p align="justify">
-👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>). 
+  <p align="center">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>).</p>
 
-🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>. 
+  <p align="center">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
-📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>
+  <p align="center">📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b></p>
 
-⏳ In my free time, I enjoy <b>reading</b>, watching <b>movies</b>, and <b>drawing</b>.
-
+  <p align="center">⏳ In my free time, I enjoy <b>reading</b>, watching <b>movies</b>, and <b>drawing</b>.</p>
+    
 </div>
 
   ---
