@@ -1,6 +1,6 @@
 <h1 align="center"> vaneldoga.md </h1>
 
-<div align="center">
+<div align="center" style="border-bottom:30px solid transparent">
   <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
 
 </div>
