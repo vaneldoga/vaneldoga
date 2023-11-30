@@ -5,9 +5,9 @@
 
 </div>
 
-<div>
-  <span style="color: transparent;">Não estou aqui!</span>
+<span style="color: transparent;">Não estou aqui!</span>
 
+<div>
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
   <p align="left">📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b></p>
