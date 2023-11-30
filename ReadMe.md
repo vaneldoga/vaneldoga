@@ -10,6 +10,12 @@
 </div>
 
 
+<div style="display: flex; align-items: center;">
+    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="Descrição da imagem" style="width: 300px; height: auto; margin-right: 20px;">
+    <p>My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
+</div>
+
+
 <div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
