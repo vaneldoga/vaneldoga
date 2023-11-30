@@ -5,10 +5,10 @@
 
 </div>
 
-<h2>👤 Quem sou eu</h2>
+<h2>👨🏽‍💻 whoami</h2>
 
 <div>
-  <p align="left">🖊️ My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
+  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
 
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
