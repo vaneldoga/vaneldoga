@@ -6,9 +6,7 @@
 </div>
 
 <div>
-  <p style="color: hsla(0, 30%, 50%, 0);">Não estou aqui.</p>
-
-  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>).</p>
+  <span style="color: transparent;">Não estou aqui!</span>
 
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
