@@ -1,12 +1,9 @@
 <h1 align="center"> vaneldoga.md </h1>
 
-
-<div style="display: flex; align-items: center;">
-    <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 300px; height: auto; margin-right: 10px; align:center;">
+<div align="center">
+  <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right;">
     <p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
 </div>
-
-<p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
 
 ---
 
