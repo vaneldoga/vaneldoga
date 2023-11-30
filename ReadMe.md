@@ -1,20 +1,12 @@
 <h1 align="center"> vaneldoga.md </h1>
 
-<div style="display:flex; padding-bottom: 20px; align=right;">
-  <div style="border:5px; border-box;  padding: 20px; border-bottom: 10px;">
-    <p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
-  </div>
-  <div style="border:5px; box-sizing: border-box;  padding: 10px; border-bottom: 10px;">
-    <img align="left" src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" width="390">
-  </div>
-</div>
-
 
 <div style="display: flex; align-items: center;">
     <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="Descrição da imagem" style="width: 300px; height: auto; margin-right: 20px;">
     <p>My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
 </div>
 
+---
 
 <div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
