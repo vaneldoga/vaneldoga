@@ -2,7 +2,8 @@
 
   <div align="center">
     <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right;">
-      <p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
+    <br>
+    <p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
   </div>
 
   ---
@@ -31,7 +32,7 @@
   <div align="center"> <!-- estatísticas -->
   
 <details>
-    <summary>Statistics</summary>
+    <summary style="font-size: 27px">Statistics</summary>
 
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
     <picture>
@@ -52,8 +53,9 @@
 
 
 <details align="center">
-  <summary>Connect</summary>
-
+  <summary style="font-size: 27px">Connect</summary>
+<br>
+<br>
   <div align="center"> <!-- social -->
       <a href="https://linkedin.com/in/yuri-delgado/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
@@ -72,6 +74,6 @@
 
 <div align="center"> 
   
-  [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=vaneldoga&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
