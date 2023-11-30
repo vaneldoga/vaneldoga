@@ -3,7 +3,15 @@
 <div align="center">
   <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right;">
   <br>
-  <p align="justify">My name is <b>Yuri</b> and my dream is to work in the cybersecurity scenario. I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>.</p>
+  <p align="justify">
+👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>). 
+
+🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>. 
+
+📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b>
+
+⏳ In my free time, I enjoy <b>reading</b>, watching <b>movies</b>, and <b>drawing</b>.
+
 </div>
 
   ---
@@ -29,8 +37,10 @@
 </div>
 
   ---
+<br>
+
 <details>
-  <summary style="font-size: 27px;">Statistics</summary>
+  <summary>Statistics</summary>
     <div align="center"> <!-- estatísticas -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400" 
@@ -46,8 +56,11 @@
     </div>
 </details>
 
+<br>
+<br>
+
 <details>
-  <summary style="font-size: 27px">Connect</summary>
+  <summary>Connect</summary>
     <div> <!-- social -->
       <a href="https://linkedin.com/in/yuri-delgado/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
