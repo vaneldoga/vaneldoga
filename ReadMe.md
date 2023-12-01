@@ -71,7 +71,7 @@
       <hr>      
       <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight" height="150" alt="stats graph"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"/>
     </div>
 </details>
 
@@ -80,8 +80,4 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaneldoga&label=Profile%20views&color=0e75b6&style=flat" alt="vaneldoga" /> </p>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=transparent)
 
