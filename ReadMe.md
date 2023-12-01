@@ -74,7 +74,8 @@
       <hr>
       <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaneldoga&theme=tokyo-night&hide_border=true"/>
       <hr>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="180" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="180" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="210" />
+      <hr>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
     </div>
 </details>
