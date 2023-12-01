@@ -66,8 +66,7 @@
     <div align="center"> <!-- estatísticas -->
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" width="400" 
-      height="150">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" height="150">
       <hr>      
       <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="160">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
