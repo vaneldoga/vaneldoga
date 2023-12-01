@@ -44,7 +44,7 @@
 
 <br>
 
-<p align="center" style="font-size: 21px; color: RGB(30,300,30);">Connect</p>
+<p align="center" style="font-size: 21px;">Connect</p>
 
 <div align="center"> <!-- social -->
   <a href="https://linkedin.com/in/yuri-delgado/">
@@ -70,11 +70,18 @@
       height="150">
       <hr>      
       <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true">
-      <hr>
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=dark" width="715" height="auto">
-        <img alt="Dashboard stats of @vaneldoga" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112524662&image_size=auto&color_scheme=light" width="771" height="auto">
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight" height="150" alt="stats graph"/>
     </div>
 </details>
+
+<br>
+<br>
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaneldoga&label=Profile%20views&color=0e75b6&style=flat" alt="vaneldoga" /> </p>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=transparent)
+
