@@ -8,7 +8,7 @@
 <h2>👨🏽‍💻 whoami</h2>
 
 <div>
-  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying <b>Computer Science</b> at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
+  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
 
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
@@ -16,6 +16,7 @@
 
   <p align="left">⏳ In my free time, I enjoy <b>reading</b>, watching <b>movies</b>, and <b>drawing</b>.</p>
 </div>
+<br>
 
   ---
 
@@ -40,6 +41,24 @@
 </div>
 
   ---
+
+<br>
+
+<p align="center" style="font-size: 21px; color: RGB(30,300,30);">Connect</p>
+
+<div align="center"> <!-- social -->
+  <a href="https://linkedin.com/in/yuri-delgado/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
+  </a>
+  <a href="https://instagram.com/vanel___y">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
+  </a>
+  <a href="https://twitter.com/vanel___y">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
+  </a>    
+</div>
+
+
 <br>
 
 <details>
@@ -59,24 +78,3 @@
       </picture>
     </div>
 </details>
-
-<br>
-<br>
-
-<details>
-  <summary>Connect</summary>
-    <div> <!-- social -->
-      <br>
-      <a href="https://linkedin.com/in/yuri-delgado/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
-      </a>
-      <a href="https://instagram.com/vanel___y">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
-      </a>
-      <a href="https://twitter.com/vanel___y">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
-      </a>    
-    </div>
-</details>
-
-![Profile views](https://gpvc.arturio.dev/[vaneldoga])
