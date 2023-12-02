@@ -1,7 +1,7 @@
 <h1 align="center"> vaneldoga.md </h1>
 
 <div align="center">
-  <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
+  <img src="[https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
 </div>
 
 <h2>👨🏽‍💻 whoami</h2>
