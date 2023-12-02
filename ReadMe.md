@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://s1.zerochan.net/Okabe.Rintarou.600.523504.jpg" alt="okabe" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
-
 </div>
 
 <h2>👨🏽‍💻 whoami</h2>
