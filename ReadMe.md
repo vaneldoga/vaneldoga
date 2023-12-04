@@ -85,21 +85,3 @@
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
     </div>
 </details>
-
-
-<div align="center"> <!-- social -->
-  <div style="display: inline-block; border-right: 27px solid transparent">
-    <a href="https://linkedin.com/in/yuri-delgado/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
-    </a>
-  </div>
-  <div style="display: inline-block; border-right: 27px solid transparent">
-    <a href="https://instagram.com/vanel___y">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
-  </a>
-  </div style="display: inline-block;">
-    <a href="https://twitter.com/vanel___y">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
-    </a> 
-  </div>   
-</div>
