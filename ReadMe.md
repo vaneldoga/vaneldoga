@@ -46,7 +46,7 @@
 <p align="center" style="font-size: 21px;">Connect</p>
 
 <div align="center"> <!-- social -->
-  <a href="https://linkedin.com/in/yuri-delgado/">
+  <a href="https://linkedin.com/in/yuri-delgado/" style="border-right: 5px solid transparent">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30; border-right: 5px solid transparent;">
   </a>
   <a href="https://instagram.com/vanel___y">
