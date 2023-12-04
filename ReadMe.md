@@ -80,5 +80,3 @@
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
     </div>
 </details>
-
-![Snake animation](https://github.com/{{vaneldoga}}/{{vaneldoga}}/blob/output/github-contribution-grid-snake.svg)
