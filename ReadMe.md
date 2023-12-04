@@ -1,13 +1,14 @@
 <h1 align="center"> vaneldoga.md </h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="okabe" style="width: 50%; height: auto; align:right;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="okabe" style="width: 50%; height: auto; align:right; border-bottom: 10px solid transparent">
+
 </div>
 
 <h2>👨🏽‍💻 whoami</h2>
 
 <div>
-  <p align="left">👤 My name is <b>Yuri</b>, and I'm studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
+  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
 
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
@@ -45,16 +46,22 @@
 
 <p align="center" style="font-size: 21px;">Connect</p>
 
+
 <div align="center"> <!-- social -->
-  <a href="https://linkedin.com/in/yuri-delgado/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
+  <div style="display: inline-block; border-right: 27px solid transparent">
+    <a href="https://linkedin.com/in/yuri-delgado/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
+    </a>
+  </div>
+  <div style="display: inline-block; border-right: 27px solid transparent">
+    <a href="https://instagram.com/vanel___y">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
   </a>
-  <a href="https://instagram.com/vanel___y">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
-  </a>
-  <a href="https://twitter.com/vanel___y">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
-  </a>    
+  </div style="display: inline-block;">
+    <a href="https://twitter.com/vanel___y">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
+    </a> 
+  </div>   
 </div>
 
 
@@ -78,3 +85,21 @@
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
     </div>
 </details>
+
+
+<div align="center"> <!-- social -->
+  <div style="display: inline-block; border-right: 27px solid transparent">
+    <a href="https://linkedin.com/in/yuri-delgado/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30;">
+    </a>
+  </div>
+  <div style="display: inline-block; border-right: 27px solid transparent">
+    <a href="https://instagram.com/vanel___y">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30;">
+  </a>
+  </div style="display: inline-block;">
+    <a href="https://twitter.com/vanel___y">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
+    </a> 
+  </div>   
+</div>
