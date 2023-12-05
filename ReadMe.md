@@ -62,7 +62,7 @@
 
 <br>
 
-<details>
+<details align="center">
   <summary>Statistics</summary>
     <div align="center"> <!-- estatísticas -->
       <br>
