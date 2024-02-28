@@ -11,7 +11,17 @@
 </div>
 <br>
 
-  ---
+  <div align="center"> <!-- social -->
+  <a href="https://linkedin.com/in/yuri-delgado/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30; margin-right: 27px">
+  </a>
+  <a href="https://instagram.com/vanel___y">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30; margin-right: 27px">
+  </a>
+  <a href="https://twitter.com/vanel___y">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
+  </a> 
+</div>
 
 <div align="center"> <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -33,24 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-  ---
-
-<br>
-
-<div align="center"> <!-- social -->
-  <a href="https://linkedin.com/in/yuri-delgado/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: auto; height: 30; margin-right: 27px">
-  </a>
-  <a href="https://instagram.com/vanel___y">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: auto; height: 30; margin-right: 27px">
-  </a>
-  <a href="https://twitter.com/vanel___y">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="width: auto; height: 30;">
-  </a> 
-</div>
-
-
-<br>
 
   <div align="center"> <!-- estatísticas -->
     <br>
