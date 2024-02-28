@@ -56,10 +56,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" height="160">
-    <hr>      
-    <img src="https://github-contributor-stats.vercel.app/api?username=vaneldoga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="170">
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph"/>
     <hr>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="210" />
     <hr>
