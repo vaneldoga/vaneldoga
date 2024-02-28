@@ -1,5 +1,3 @@
-<h1 align="center"> vaneldoga.md </h1>
-
 <h2>👨🏽‍💻 whoami</h2>
 
 <div>
