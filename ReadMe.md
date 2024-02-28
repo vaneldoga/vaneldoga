@@ -56,7 +56,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vaneldoga&theme=tokyonight&hide_border=true" height="160">
-    <hr>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="210" />
     <hr>
   </div>
