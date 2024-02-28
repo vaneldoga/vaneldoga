@@ -63,8 +63,6 @@
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112524662" target="_blank" style="display: block" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=vaneldoga&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph"/>
     <hr>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaneldoga&theme=tokyo-night&hide_border=true"/>
-    <hr>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="210" />
     <hr>
   </div>
