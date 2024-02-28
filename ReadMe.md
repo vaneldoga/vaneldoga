@@ -67,5 +67,4 @@
     <hr>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaneldoga&theme=tokyonight" height="210" />
     <hr>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
   </div>
