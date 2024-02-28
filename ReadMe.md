@@ -54,8 +54,8 @@
 
 <br>
 
-<details align="center">
-  <summary>Statistics</summary>
+#<details align="center">
+  #<summary>Statistics</summary>
     <div align="center"> <!-- estatísticas -->
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaneldoga&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160">
@@ -71,4 +71,4 @@
       <hr>
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaneldoga&theme=tokyonight" height="220" />
     </div>
-</details>
+#</details>
