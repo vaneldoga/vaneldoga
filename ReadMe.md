@@ -1,6 +1,4 @@
 <div>
-  <p align="left">👤 My name is <b>Yuri</b>, and I'm currently studying Computer Science at the <b>Federal University of Pará</b> (<i><b>UFPA</b></i>)</p> 
-
   <p align="left">🎯 My professional goal is to work in the field of <b>cybersecurity</b>, constantly seeking opportunities to enhance both my professional and personal <b>knowledge</b>.</p>
 
   <p align="left">📌 I'm currently learning <b>English</b>, <b>Python</b> and the fundamentals of <b>cybersecurity</b></p>
